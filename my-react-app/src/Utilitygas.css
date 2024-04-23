@@ -1,0 +1,99 @@
+div.Utilitymobile-main-div{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 450px !important;
+    width: 100%;
+}
+
+div.Utilitymobile-content-div{
+    box-shadow: 1px 1px 1px 1px black;
+    padding: 50px 50px;
+    border-radius: 10px;
+}
+
+.Utilitymobile-content-div-recharge-header{
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    /* font-family: sans-serif; */
+}
+
+div.Utilitymobile-content-div-radio-main-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+}
+
+.Utilitymobile-content-div-radio{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+.Utilitymobile-content-div-input{
+    margin: 15px 0px;
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 0;
+
+}
+
+div.Utilitymobile-content-div-button-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.Utilitymobile-content-div-button{
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+div.Utilitymobile-recharge-operator-sub-div-header{
+    font-size: 21px;
+    font-weight: 500;
+    /* font-family:sans-serif ; */
+    color: black;
+    font-weight: 600;
+    /* letter-spacing: 1px; */
+    padding: 20px 0px;
+}
+.Utilitymobile-recharge-operator-sub-div-content-individual-image{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+div.Utilitymobile-recharge-operator-sub-div-content-individual-text{
+    padding: 10px 0px;
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+    /* font-family: serif; */
+}
+div.Utilitymobile-content-div-input-main-div{
+    padding: 40px 0px;
+}
+div.Utilitymobile-content-div-radio-main-div{
+    display: flex;
+    justify-content: space-between;
+    padding:0px;
+}
+.Utilitymobile-content-div-radio{
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    padding: 0px 10px;
+}
+div.Utilitymobile-recharge-operator-sub-div-content{
+    display: flex;
+    justify-content: center;
+}
+div.Utilitymobile-recharge-operator-sub-div-content-individual{
+    padding: 0px 20px;
+}
+div.Utilitymobile-recharge-operator-sub-div-header{
+    display: flex;
+    justify-content: center;margin-right: 530px;
+}

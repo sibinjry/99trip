@@ -1,0 +1,509 @@
+div.Train-page-main-div{
+    width: 1360px;
+}
+div.Train-page-main-first-header {
+    /* background-image: url('./Images/99trip.png'); */
+    background-image: url('./Images/trainbackgroundimage1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 660px;
+    width: 100%;
+    display: flex;
+    padding: 70px 120px;
+
+}
+
+div.Train-page-main-first-transparent-main-div {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 400px;
+    width: 1000px;
+    border-radius: 10px;
+
+}
+
+.Train-page-main-header-logo-logoes {
+    height: 80px;
+    width: 80px;
+    padding: 20px 20px;
+}
+
+div.Train-page-main-first-transparent-main-div-first-section-one-way {
+    color: white;
+    padding: 0px 4px;
+}
+
+div.Train-page-main-first-transparent-main-div-first-section-Round-trip {
+    color: white;
+    padding: 0px 4px;
+}
+
+div.Train-page-main-first-transparent-main-div-first-section {
+    padding: 20px 30px;
+    display: flex;
+}
+
+.Train-page-main-first-transparent-main-div-first-section-one-way-label {
+    padding: 0px 2px;
+}
+
+div.Train-page-main-first-transparent-main-div-second-section-first-part-from {
+    background-color: white;
+    height: 100px;
+    /* display: grid; */
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: 45%;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+div.Train-page-main-first-transparent-main-div-second-section {
+    padding: 0px 30px;
+
+}
+
+.Train-page-main-first-transparent-main-div-second-section-first-part-from-input {
+    border: none !important;
+    font-size: 25px !important;
+    color: black !important;
+    width: 100%;
+}
+
+.Train-page-main-first-transparent-main-div-second-section-first-part-from-label {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+div.Train-page-main-first-transparent-main-div-second-section-first-part {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.Train-page-main-first-transparent-main-div-second-section-second-part {
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.Train-page-main-first-transparent-main-div-second-section-second-part-depature {
+    display: grid;
+}
+
+.Train-page-main-first-transparent-main-div-second-section-second-part-label {
+    color: white;
+    font-size: 20px;
+}
+
+.Train-page-main-first-transparent-main-div-second-section-second-part-input {
+    margin-top: 10px;
+    width: 300px !important;
+    height: 50px !important;
+    font-size: 16px !important;
+}
+
+.Train-page-main-first-transparent-main-div-second-section-second-part-input {
+    background-color: white !important;
+    color: black !important;
+}
+
+div.Train-page-main-first-transparent-main-div-second-section-third-part {
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Train-page-main-first-transparent-main-div-second-section-third-part-button {
+    background-color: #D19c00 !important;
+    border: none !important;
+    padding: 10px 100px !important;
+    /* font-size: 0px; */
+    color: white !important;
+    text-transform: uppercase !important;
+    font-weight: 500 !important;
+    /* width: 100%; */
+    /* height: 30px; */
+}
+
+
+/* second main div styles */
+div.Train-page-main-second-div {
+    background-color: black;
+    height: 880px;
+    padding: 40px 100px;
+    /* display: flex; */
+}
+
+div.Train-page-main-second-div-section-one {
+    display: flex;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #D19c00;
+}
+
+div.Train-page-main-second-div-section-one-left-side-header {
+    color: #D19c00;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px 0px;
+}
+
+div.Train-page-main-second-div-section-one-left-side-header-footer {
+    width: 85%;
+    color: white;
+    font-size: 13px;
+}
+
+/* right side */
+
+div.Train-page-main-second-div-section-one-Right-side-header {
+    color: #D19c00;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px 0px;
+}
+
+div.Train-page-main-second-div-section-one-Right-side-header-footer {
+    width: 85%;
+    color: white;
+    font-size: 13px;
+}
+
+/* second section style */
+div.Train-page-main-second-div-section-two {
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 1px solid #D19c00;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    /* width: 90%; */
+}
+
+div.Train-page-main-second-div-section-two-left-side-header {
+    color: #D19c00;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px 0px;
+}
+
+div.Train-page-main-second-div-section-two-left-side-footer {
+    width: 100%;
+    color: white;
+    font-size: 13px;
+}
+
+div.Train-page-main-second-div-section-two-Right-side-header {
+    color: #D19c00;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px 0px;
+}
+
+div.Train-page-main-second-div-section-two-Right-side-footer {
+    width: 85%;
+    color: white;
+    font-size: 13px;
+}
+
+div.Train-page-main-second-div-section-two-Right-side {
+    padding-left: 70px;
+}
+
+/* third section in second main div */
+div.Train-page-main-second-div-third-three-header {
+    color: #D19c00;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px 0px;
+}
+
+div.Train-page-main-second-div-third-three-header-footer {
+    width: 100%;
+    color: white;
+    font-size: 13px;
+}
+
+div.Train-page-main-second-div-third-three-leftside {
+    width: 2100px;
+    /* margin-right: 200px; */
+}
+
+div.Train-page-main-second-div-third-three {
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 1px solid #D19c00;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+div.Train-page-main-second-div-third-three-rightside-header {
+    color: #D19c00;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px 0px;
+}
+
+div.Train-page-main-second-div-third-three-rightside-header-footer {
+    width: 80%;
+    color: white;
+    font-size: 13px;
+}
+
+div.Train-page-main-second-div-third-three-rightside {
+    /* width: 2100px; */
+    padding-left: 120px;
+}
+
+/* third section main div */
+div.Train-page-main-third-section-div {
+    width: 100%;
+    height: 650px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.Train-page-main-third-section-div-small-main-div {
+    width: 80%;
+    height: 470px;
+    background-color: rgb(223, 221, 221);
+    border-radius: 20px;
+    overflow: auto;
+    padding: 10px 0px;
+}
+
+div.Train-page-main-third-section-div-small-main-div {
+    padding: 20px;
+    align-items: center;
+
+}
+
+div.Train-page-main-third-section-div-small-main-div-header-offer {
+    font-size: 28px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+}
+
+div.Train-page-main-third-section-offer-content-first-section {
+    display: flex;
+    justify-content: space-evenly;
+    overflow: auto;
+    padding-bottom: 30px;
+}
+
+div.Train-page-main-third-section-offer-content-first-section-offer {
+    background-color: white;
+    height: 160px;
+    box-shadow: 1px 1px 1px 1px rgb(173, 173, 173);
+    width: 450px;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    padding: 0px 30px;
+    justify-content: space-between;
+}
+
+.trainofferimage {
+    height: 110px;
+    width: 120px;
+    border-radius: 10px;
+}
+
+div.Train-page-main-third-section-offer-content-first-section-offer-rightside {
+    padding-left: 20px;
+    display: grid;
+}
+
+div.Train-page-main-third-section-offer-content-first-section-offer-rightside-header {
+    font-weight: 500;
+}
+
+div.Train-page-main-third-section-offer-content-first-section-offer-rightside-footer {
+    padding-top: 1px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.Train-page-main-third-section-offer-content-first-section-offer-rightside-footer-button {
+    margin-top: 5px;
+    background-color: #D19c00 !important;
+    border: none !important;
+}
+
+.train-page-moving-train {
+    background-color: black;
+    padding-bottom: 80px;
+}
+
+.train-page-moving-train-image {
+    height: 50px;
+    width: 500px;
+}
+
+div.train-page-moving-train {
+    padding: 20px 240px;
+}
+
+/* from main content for train page */
+div.train-page-train-from-main-div {
+    background-color: black;
+    padding: 0px 180px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+div.train-page-from-to-div-logo-from-content-main-div {
+    display: flex;
+}
+
+.train-page-from-to-div-logo-image {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div.train-page-from-to-div-from-content {
+    color: white;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+div.train-page-from-to-div-logo-from-content-main-div {
+    align-items: center;
+}
+
+div.train-page-from-to-div-To-content-main-div {
+    font-size: 13px;
+    color: white;
+    margin-left: 60px;
+    width: 220px;
+}
+
+.train-page-from-to-div-from-content-color-change {
+    color: #D19c00;
+    padding-right: 10px;
+}
+
+div.train-page-train-from-first-section-main-div {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+
+/* footer for train page */
+div.train-page-footer-main {
+    background-color: #D19c00;
+    height: 110px;
+    width: 100%;
+    padding: 20px 60px;
+}
+
+div.train-page-footer-main-Invenu-name {
+    font-family: sans-serif;
+    font-weight: 600;
+    color: black;
+}
+
+div.train-page-footer-main-Invenu-nav-list {
+    color: black;
+    font-weight: 500;
+    padding: 0px 10px;
+}
+
+div.train-page-footer-main-Invenu-nav-list-about {
+    color: black;
+    font-weight: 500;
+    padding: 0px 0px;
+}
+
+div.train-page-footer-main-Invenu-nav-main {
+    display: flex;
+}
+
+div.train-page-footer-copyright-content {
+    color: black;
+    letter-spacing: -1px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 40px;
+}
+
+
+/* railways inquiry main div */
+
+div.train-page-railways-inquiry-main-div {
+    background-color: black;
+    height: 350px;
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+div.train-page-railways-inquiry-main-div-header {
+    color: #D19c00;
+    font-size: 26px;
+    font-family: sans-serif;
+}
+
+div.train-page-railways-inquiry-main-div-footer-main {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+
+div.train-page-railways-inquiry-main-div-footer-div {
+    background-color: white;
+    display: grid;
+    text-align: left;
+    width: 250px;
+    height: 110px;
+    margin: 20px;
+}
+
+div.train-page-railways-inquiry-main-div-footer-div {
+    padding: 20px 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    /* background-image: url('./Images/trainbackground2.jpg'); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 1px 1px 1px 1px #D19c00;
+}
+
+div.train-page-railways-inquiry-main-div-footer-div-header {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: #D19c00;
+}
+
+.train-page-railways-inquiry-main-div-footer-div-button-btn {
+    background-color: white !important;
+    border: 2px solid black !important;
+    border-radius: 50% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black !important;
+
+}
+
+.train-page-railways-inquiry-main-div-footer-div-button-btn:hover {
+    background-color: #D19c00 !important;
+}
+.train-page-footer-copyright-content-button{
+    color: white !important;
+    background-color: #D19c00 !important;
+    border: none !important;
+}

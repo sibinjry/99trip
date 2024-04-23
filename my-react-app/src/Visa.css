@@ -1,0 +1,476 @@
+div.Visa-page-main-div{
+    width: 1360px;
+}
+div.Visa-page-first-section-main-div {
+    background-image: url('./Images/visabackground3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+div.Visa-page-first-section-main-div-header {
+    width: 400px;
+    color: #D19c00;
+    font-size: 26px;
+    font-family: sans-serif;
+}
+
+div.Visa-page-transparent-div {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 40px;
+    border-radius: 20px;
+}
+
+div.Visa-page-transparent-div {
+    display: grid;
+    text-align: center;
+    justify-content: center;
+}
+
+div.Visa-page-first-section-main-div-footer-main {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0px;
+}
+
+.Visa-page-first-section-main-div-footer-input {
+    width: 800px;
+    height: 50px;
+    padding-bottom: 80px;
+}
+
+.Visa-page-first-section-main-div-footer-input-inp {
+    padding-left: 40px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black !important;
+    font-weight: 500;
+}
+
+div.Visa-page-first-section-main-div-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.Visa-page-first-section-main-div-footer-search-button {
+    height: 45px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: black;
+    background-color: #D19c00;
+    border: none;
+}
+
+.Visa-page-first-section-main-div-footer-search-button:hover {
+    background-color: white;
+    border: 1px solid #D19c00;
+    color: black;
+}
+
+/* second main section */
+div.Visa-page-second-section-main-div {
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    padding: 30px 0px;
+}
+
+div.Visa-page-second-section-main-div-header {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: black;
+}
+
+div.Visa-page-second-section-main-div-headers {
+    filter: drop-shadow(5px 5px 5px black);
+
+}
+
+.Visa-page-second-main-flag-section-individual-div-header-image {
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+}
+
+div.Visa-page-second-main-flag-section-main {
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+div.Visa-page-second-main-flag-section-individual-div-footer {
+    color: black;
+    padding: 10px 0px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 510;
+    letter-spacing: 1px;
+}
+
+div.Visa-page-second-main-flag-section-individual-div {
+    padding: 10px 20px;
+    width: 150px;
+}
+
+/* third section main styles */
+
+div.Visa-page-third-section-main-div {
+    padding: 0px 30px;
+    padding-top: 30px;
+    background-color: black;
+}
+
+div.Visa-page-third-section-main-div-header {
+    padding: 0px 30px;
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+div.Visa-page-third-section-main-div-footer-div-one-header {
+    color: #D19c00;
+    font-size: 17px;
+    padding: 10px 0px;
+}
+
+.Visa-page-third-section-main-div-footer-div-one-image-content-image {
+    width: 160px;
+    height: 160px;
+    border-radius: 10px;
+}
+
+.Visa-page-third-section-main-div-footer-div-one-image-content-footer-button {
+    border: 1px solid #D19c00;
+    color: black;
+    font-size: 16px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: 160px;
+}
+
+div.Visa-page-third-section-main-div-footer-div-one {
+    padding: 0px 20px;
+    border-radius: 10px;
+    width: 250px;
+    display: grid;
+    text-align: left;
+}
+
+div.Visa-page-third-section-main-div-footer-section-one {
+    display: flex;
+    padding: 20px 40px;
+
+    text-align: center;
+    justify-content: center;
+}
+
+div.Visa-page-third-section-main-div-footer-div-one-image-content-footer {
+    padding: 15px 0px;
+}
+
+div.Visa-page-third-section-main-div-footer-section-two {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+/* icon */
+.Visa-page-second-section-main-div-header-icon {
+    height: 20px;
+}
+
+div.Visa-page-icon-location-div {
+    padding: 0px 18px;
+}
+
+.Visa-page-second-section-main-div-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* appoinment for visa application center */
+div.Visa-page-visa-application-center-main-div {
+    padding: 50px;
+
+}
+
+div.Visa-page-visa-application-center-header {
+    display: flex;
+    text-align: center;
+    justify-content: left;
+    color: white;
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+.color-change-for-visapage {
+    color: #D19c00;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+div.Visa-page-appoinment-form-main-div {
+    /* background-color: white; */
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+div.Visa-page-appoinment-form-sub-div {
+    background-color: white;
+    width: 80%;
+    padding: 30px 60px;
+    border-radius: 10px;
+    display: grid;
+}
+
+div.Visa-appoinment-mandatory-main-row {
+    display: flex;
+}
+
+div.Visa-appoinment-mandatory-main-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+.color-change-for-visapages {
+    color: red;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+div.Visa-appoinment-form-main-div {
+    padding: 30px;
+}
+
+div.Visa-appoinment-form-left-side {
+    width: 50%;
+    justify-content: left;
+    display: grid;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+div.Visa-appoinment-form-individual-div {
+    display: flex;
+    padding: 10px 0px;
+}
+
+div.Visa-appoinment-form-right-side {
+    width: 50%;
+    font-weight: 500;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.Visa-appoinment-form-right-side-label {
+    padding: 0px 10px;
+}
+
+.Visa-appoinment-form-right-side-dropdown {
+    background-color: white !important;
+    color: black !important;
+    /* border: none !important; */
+    font-weight: 500;
+    /* text-align: left; */
+    /* padding-left: 45px; */
+    height: 30px;
+    width: 260px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    /* padding: 0px 20px; */
+}
+
+.Visa-appoinment-form-right-side-button {
+    height: 40px !important;
+    width: 260px !important;
+    background-color: black !important;
+    color: white !important;
+    align-items: center;
+    border: none !important;
+}
+.Visa-appoinment-form-right-side-button:hover{
+    background-color: #D19c00 !important;
+    color: white !important;
+    border: none !important;
+    transform: translateY(3px) !important;
+}
+
+div.Visa-appoinment-form-right-side-last {
+    width: 50%;
+    font-weight: 500;
+    text-align: left;
+    padding-left: 50px;
+    display: flex;
+}
+
+.Visa-appoinment-form-right-side-dropdown-last {
+    background-color: white !important;
+    color: black !important;
+    /* border: none !important; */
+    font-weight: 500;
+    /* text-align: left; */
+    /* padding-left: 45px; */
+    height: 30px;
+    width: 180px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    cursor: pointer;
+    /* border-radius: 10px; */
+}
+
+.Visa-appoinment-form-right-side-dropdown-last-button {
+    background-color: black !important;
+    color: white !important;
+    height: 30px !important;
+    font-size: 15px;
+    align-items: center !important;
+    display: flex;
+    border: none !important;
+}
+.Visa-appoinment-form-right-side-dropdown-last-button:hover{
+    background-color: #D19c00 !important;
+    color: white !important;
+    transform: translateY(3px);
+}
+
+.star-color-change {
+    color: red;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+/* important notice styles */
+div.Visa-page-important-notice-header {
+    color: red;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+div.Visa-page-important-notice-footer {
+    color: red;
+    padding: 20px 50px;
+}
+
+div.Visa-page-important-notice-main-div {
+    /* padding: 30px 0px; */
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-right: 100px;
+}
+
+div.footer-main-div-for-visa-page {
+    background-color: #D19c00;
+    padding: 10px 40px;
+    display: grid;
+}
+
+div.footer-main-div-for-visa-page-header {
+    font-weight: 600 !important;
+    font-family: sans-serif;
+}
+
+div.footer-main-div-for-visa-page-main-content-main-div-content {
+    font-weight: 500 !important;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+div.footer-main-div-for-visa-page-main-content-main-div {
+    display: flex;
+}
+
+div.footer-main-div-for-visa-page-main-content-main-div-content {
+    padding: 0px 10px;
+}
+
+div.Visa-page-footer-main-copyright-content {
+    font-size: 16px !important;
+    font-weight: 450 !important;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+}
+
+/* for icon style */
+div.footer-section-visa-instgram-icon {
+    /* padding-left: 370px; */
+    font-size: 18px;
+    /* width: 20px; */
+}
+
+div.footer-section-visa-facebook-icon {
+    padding: 0px 10px;
+    font-size: 18px;
+}
+
+div.footer-section-visa-twitter-icon {
+    font-size: 18px;
+}
+div.visa-page-footer-icon{
+    display: flex;
+    padding-left: 370px;
+    
+}
+
+div.footer-section-visa-twitter-icon:hover {
+    transform: translateY(2px);
+    /* background-color: black; */
+    color: white;
+    border-radius: 50%;
+    padding: 0px 5px;
+}
+
+div.footer-section-visa-facebook-icon:hover {
+    transform: translateY(2px);
+    color: white;
+    border-radius: 50%;
+    padding: 0px 5px;
+}
+div.footer-section-visa-instgram-icon:hover{
+    transform: translateY(2px);
+    color: white;
+    
+}
+.Visa-page-footer-main-copyright-content-button{
+    color: white ;
+    background-color: #D19c00 ;
+    border: none ;
+}

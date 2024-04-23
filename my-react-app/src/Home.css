@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+div.Home-page-main-div {
+    background-image: url(./Images/99trip.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:660px;
+    width: 1325px;
+    padding: 60px;
+}
+
+div.Home-page-logo-main-div {
+    display: grid;
+    align-items: center;
+    flex: 0.3;
+
+}
+
+div.Home-page-logo-text-div {
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-left: 16px;
+}
+
+.Home-page-logo-text-div-span {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+    padding-right: 2px;
+}
+
+div.Home-page-header-div {
+    display: flex;
+}
+
+div.Home-page-nav-main-div {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-evenly;
+    flex: 0.7;
+    letter-spacing: 1px;
+}
+
+/* main style */
+
+div.Home-page-main-section-div {
+    display: grid;
+    justify-content: center;
+    padding: 20px;
+}
+
+div.Home-page-main-section-journey-div {
+    color: white;
+    font-size: 40px;
+    font-family: "Dancing Script", cursive;
+    letter-spacing: 1px;
+    text-align: center;
+    font-weight: 500;
+}
+
+div.Home-page-main-section-Discover-div {
+    color: #D19c00;
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.Home-page-footer-icon-individual-div-logo {
+    border-radius: 50%;
+}
+
+div.Home-page-footer-icon-main-div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+div.Home-page-footer-main-div {
+    padding: 0px 50px;
+    padding-top: 90px;
+}
+
+div.Home-page-footer-input-main-div {
+    padding: 50px 0px;
+}
+
+div.Home-page-footer-icon-individual-div {
+    color: white;
+}
